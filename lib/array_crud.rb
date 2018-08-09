@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def create_an_empty_array
   array = []
 end
@@ -34,5 +33,3 @@ end
 def retrieve_last_element_from_array(array)
   array.last
 end
-=======
->>>>>>> 40b54bc05e44c5fe53aadc865145ff53e32a29d2
